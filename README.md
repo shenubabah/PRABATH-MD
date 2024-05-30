@@ -26,11 +26,7 @@
 <br>
   
 
-![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FprabathLK%2FPRABATH-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
-![forks](https://img.shields.io/github/forks/prabathLK/PRABATH-MD?label=Forks&style=social)
-
-![stars](https://img.shields.io/github/stars/prabathLK/PRABATH-MD?style=social)
 
 
 
@@ -38,17 +34,16 @@
 <br>
 <br>
 
-<a href="https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20Join%20Our%20WhatsApp%20Channel-black" alt="📎 Join Our WhatsApp Channel" width="300"></a>
 
 <br>
 
 ---
 
-<a href="https://www.prabath-md-official-web.com/"><img src="https://img.shields.io/badge/DEPLOY-greeen" alt="Create prabath-md bot" width="150"></a>
+
 
 <br>
 
-[![FORK Chuti-MD](https://img.shields.io/badge/FORK%20-Chuti%20MD-white)](https://github.com/prabathLK/PRABATH-MD/fork)
+[![FORK Chuti-MD](https://img.shields.io/badge/FORK%20-Chuti%20MD-white)](https://github.com/shenubabah/PRABATH-MD/fork)
 
  ---
  
