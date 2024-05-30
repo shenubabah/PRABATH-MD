@@ -44,9 +44,3 @@
 <br>
 
 [![FORK Chuti-MD](https://img.shields.io/badge/FORK%20-Chuti%20MD-white)](https://github.com/shenubabah/PRABATH-MD/fork)
-
- ---
- 
-<a href="https://prabath-md-terms-and-rules.vercel.app/"><img src="https://img.shields.io/badge/Read%20Our%20Terms%20and%20Conditions-red" alt="DEPLOY" width="270"></a>
-
---
